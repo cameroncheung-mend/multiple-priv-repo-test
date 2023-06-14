@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Cam.PrivateClass.Beta" Version="1.0.0" />
+    <PackageReference Include="Cam.PrivateClass.Charlie" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
